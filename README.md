@@ -5,6 +5,16 @@ Discrete Mathematics lectures for computer science students.
 
 ## Textbooks
 
+* ***Discrete Mathematics and Its Applications***, Kenneth Rosen
+* ***Discrete Mathematics: An Open Introduction***, Oscar Levin
+* ***Book of Proof***, Richard H. Hammack
+* ***Introduction to Graph Theory (Dover Books on Mathematics)***, Richard J. Trudeau
+* ***Schaum's Outline of Essential Computer Mathematics***, Seymour Lipschutz
+* ***Discrete Mathematics with Graph Theory***, Edgar G. Goodaire
+* ***Discrete-Time Signal Processing (Prentice-Hall Signal Processing Series)***, Alan Oppenheim
+* ***Introduction to Graph Theory (Dover Books on Mathematics)***, Richard J. Trudeau
+* ***Discrete Mathematical Structures***, Kolman Bernard
+
 <img align="right" width="90" height="50" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
 ## Coursera-Specializations
