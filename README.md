@@ -1,7 +1,18 @@
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
 
-# Discrete-Mathematics
+# Discrete-Mathematics `30H`
 Discrete Mathematics lectures for computer science students.
+
+## Lecture 01 - [Introduction to Discrete Mathematics]()
+## Lecture 02 - [Mathematical Logic]()
+## Lecture 03 - [Set Theory]()
+## Lecture 04 - [Induction and Recursion]()
+## Lecture 05 - [Summation Notation]()
+## Lecture 06 - [Asymptotic Notation]()
+## Lecture 07 - [Number Theory]()
+## Lecture 08 - [Relations]()
+## Lecture 09 - [Graph Theory]()
+## Lecture 10 - [Counting]()
 
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
