@@ -1,6 +1,6 @@
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
 
-# Discrete-Mathematics `30H`
+# Discrete-Mathematics `40H`
 Discrete Mathematics lectures for computer science students.
 
 ## Lecture 01 - [Introduction to Discrete Mathematics]()
