@@ -45,3 +45,12 @@ Discrete Mathematics lectures for computer science students.
 <img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
 ## YouTube-Playlists
+
+* The Organic Chemistry Tutor - SAT Math
+* Neso Academy - Discrete Mathematics
+* TheTrevTutor - Discrete Math 1
+* TheTrevTutor - Discrete Math 2
+* TheTrevTutor - Introduction to Linguistics
+* TheTrevTutor - Mathematical Linguistics
+* Professor Macauley - Discrete Mathematical Structures
+* James Hamblin - Discrete Mathematics
