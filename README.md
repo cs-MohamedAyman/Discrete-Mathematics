@@ -33,6 +33,7 @@ Discrete Mathematics lectures for computer science students.
 * ***Introduction to Discrete Mathematics for Computer Science Specialization*** by National Research University Higher School of Economics
 * ***Introduction to Ordinary Differential Equations*** by Korea Advanced Institute of Science and Technology
 * ***Vector Calculus for Engineers*** by The Hong Kong University of Science and Technology
+* ***Numerical Methods for Engineers*** by The Hong Kong University of Science and Technology
 * ***Differential Equations for Engineers*** by The Hong Kong University of Science and Technology
 * ***Matrix Algebra for Engineers*** by The Hong Kong University of Science and Technology
 * ***Introduction to numerical analysis*** by National Research University Higher School of Economics
