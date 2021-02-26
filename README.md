@@ -1,12 +1,12 @@
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
 
-# Discrete-Mathematics `40H`
+# Discrete-Mathematics `60H`
 Discrete Mathematics lectures for computer science students.
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 1` 
+## `Part 1` `30H`
 
 ### `Lecture 01` - 
 ### `Lecture 02` - 
@@ -18,7 +18,7 @@ Discrete Mathematics lectures for computer science students.
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 2` 
+## `Part 2` `30H`
 
 ### `Lecture 07` - 
 ### `Lecture 08` - 
