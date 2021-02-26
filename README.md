@@ -71,9 +71,6 @@ Discrete Mathematics lectures for computer science students.
 * ***Fundamentals of Discrete Math for Computer Science***, Tom Jenkyns
 * ***Notes on Discrete Mathematics***, James Aspnes
 
-* ***Discrete Mathematics with Graph Theory***, Edgar G. Goodaire
-
-
 <img align="right" width="90" height="50" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
 ## `Coursera-Specializations`
