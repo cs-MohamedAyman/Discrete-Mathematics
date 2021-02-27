@@ -8,26 +8,26 @@ Discrete Mathematics lectures for computer science students.
 
 ## `Part 1` Proofs and Structures `30H`
 
-### `Lecture 01` - The Foundations of Proofs
-### `Lecture 02` - Sets and Functions
-### `Lecture 03` - Sequences and Series
-### `Lecture 04` - Propositional logic and Predicate logic
-### `Lecture 05` - Number Theory
-### `Lecture 06` - Induction and Recursion
-### `Lecture 07` - Counting
+### `Lecture 01` - [The Foundations of Proofs]()
+### `Lecture 02` - [Sets and Functions]()
+### `Lecture 03` - [Sequences and Series]()
+### `Lecture 04` - [Propositional logic and Predicate logic]()
+### `Lecture 05` - [Number Theory]()
+### `Lecture 06` - [Induction and Recursion]()
+### `Lecture 07` - [Counting]()
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
 ## `Part 2` Graphs and Trees `30H`
 
-### `Lecture 08` - Probability
-### `Lecture 09` - Advanced Counting Techniques
-### `Lecture 10` - Relations
-### `Lecture 11` - Graphs
-### `Lecture 12` - Trees
-### `Lecture 13` - Boolean Algebra
-### `Lecture 14` - Languages, Automata, Grammars
+### `Lecture 08` - [Probability]()
+### `Lecture 09` - [Advanced Counting Techniques]()
+### `Lecture 10` - [Relations]()
+### `Lecture 11` - [Graphs]()
+### `Lecture 12` - [Trees]()
+### `Lecture 13` - [Boolean Algebra]()
+### `Lecture 14` - [Languages, Automata, Grammars]()
 
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 <br>
