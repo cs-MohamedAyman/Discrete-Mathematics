@@ -1,38 +1,154 @@
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
 
-# Discrete-Mathematics `60H`
+# Discrete-Mathematics
 Discrete Mathematics lectures for computer science students.
 
-<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 1` Proofs and Structures `30H`
+## `Part 1` Proofs and Structures `30 hrs`
 
 ### `Lecture 01` - [The Foundations of Proofs]()
-### `Lecture 02` - [Sets and Functions]()
-### `Lecture 03` - [Sequences and Series]()
-### `Lecture 04` - [Propositional logic and Predicate logic]()
-### `Lecture 05` - [Number Theory]()
-### `Lecture 06` - [Induction and Recursion]()
-### `Lecture 07` - [Counting]()
+<details>
+  <summary>Agenda</summary><br>
 
-<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 02` - [Sets and Functions]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 03` - [Sequences and Series]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 04` - [Propositional logic and Predicate logic]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 05` - [Number Theory]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 06` - [Induction and Recursion]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 2` Graphs and Trees `30H`
+## `Part 2` Graphs and Trees `30 hrs`
 
-### `Lecture 08` - [Probability]()
-### `Lecture 09` - [Advanced Counting Techniques]()
-### `Lecture 10` - [Relations]()
-### `Lecture 11` - [Graphs]()
-### `Lecture 12` - [Trees]()
-### `Lecture 13` - [Boolean Algebra]()
-### `Lecture 14` - [Languages, Automata, Grammars]()
+### `Lecture 07` - [Probability]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 08` - [Counting Techniques]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 09` - [Relations]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 10` - [Graphs]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 11` - [Trees]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 12` - [Boolean Algebra]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
 
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 <br>
 
-## `Assignments` `50H`
+## `Assignments` `5 hrs`/`Assignment`
 
 ### `Assignment 01` - 
 ### `Assignment 02` - 
@@ -45,21 +161,20 @@ Discrete Mathematics lectures for computer science students.
 ### `Assignment 09` - 
 ### `Assignment 10` - 
 
-<img align="right" width="230" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
 <br>
 
-## `Educational-Projects` `100H`
+## `Educational-Projects` `10 hrs`/`Project`
 
-### `Project 01` -
-### `Project 02` -
-### `Project 03` -
-### `Project 04` -
-### `Project 05` -
-### `Project 06` -
-### `Project 07` -
-### `Project 08` -
-### `Project 09` -
-### `Project 10` -
+|`Project 01` | `Project 02` | `Project 03` | `Project 04` |
+|:----:|:----:|:----:|:----:|
+| | | | |
+| | | | |
+
+|`Project 05` | `Project 06` | `Project 07` | `Project 08` |
+|:----:|:----:|:----:|:----:|
+| | | | |
+| | | | |
 
 <br>
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
