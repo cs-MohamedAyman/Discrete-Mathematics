@@ -8,7 +8,7 @@ Discrete Mathematics lectures for computer science students.
 
 ## `Part 1` Proofs and Structures `30 hrs`
 
-### `Lecture 01` - [The Foundations of Proofs]()
+### `Lecture 01` - [The Foundations of Proofs](https://github.com/cs-MohamedAyman/Discrete-Mathematics/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -19,7 +19,7 @@ Discrete Mathematics lectures for computer science students.
   - 
 </details>
 
-### `Lecture 02` - [Sets and Functions]()
+### `Lecture 02` - [Sets and Functions](https://github.com/cs-MohamedAyman/Discrete-Mathematics/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -30,7 +30,7 @@ Discrete Mathematics lectures for computer science students.
   - 
 </details>
 
-### `Lecture 03` - [Sequences and Series]()
+### `Lecture 03` - [Sequences and Series](https://github.com/cs-MohamedAyman/Discrete-Mathematics/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -41,7 +41,7 @@ Discrete Mathematics lectures for computer science students.
   - 
 </details>
 
-### `Lecture 04` - [Propositional logic and Predicate logic]()
+### `Lecture 04` - [Propositional logic and Predicate logic](https://github.com/cs-MohamedAyman/Discrete-Mathematics/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -52,7 +52,7 @@ Discrete Mathematics lectures for computer science students.
   - 
 </details>
 
-### `Lecture 05` - [Number Theory]()
+### `Lecture 05` - [Number Theory](https://github.com/cs-MohamedAyman/Discrete-Mathematics/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -63,7 +63,7 @@ Discrete Mathematics lectures for computer science students.
   - 
 </details>
 
-### `Lecture 06` - [Induction and Recursion]()
+### `Lecture 06` - [Induction and Recursion](https://github.com/cs-MohamedAyman/Discrete-Mathematics/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -79,7 +79,7 @@ Discrete Mathematics lectures for computer science students.
 
 ## `Part 2` Graphs and Trees `30 hrs`
 
-### `Lecture 07` - [Probability]()
+### `Lecture 07` - [Probability](https://github.com/cs-MohamedAyman/Discrete-Mathematics/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -90,7 +90,7 @@ Discrete Mathematics lectures for computer science students.
   - 
 </details>
 
-### `Lecture 08` - [Counting Techniques]()
+### `Lecture 08` - [Counting Techniques](https://github.com/cs-MohamedAyman/Discrete-Mathematics/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -101,7 +101,7 @@ Discrete Mathematics lectures for computer science students.
   - 
 </details>
 
-### `Lecture 09` - [Relations]()
+### `Lecture 09` - [Relations](https://github.com/cs-MohamedAyman/Discrete-Mathematics/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -112,7 +112,7 @@ Discrete Mathematics lectures for computer science students.
   - 
 </details>
 
-### `Lecture 10` - [Graphs]()
+### `Lecture 10` - [Graphs](https://github.com/cs-MohamedAyman/Discrete-Mathematics/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -123,7 +123,7 @@ Discrete Mathematics lectures for computer science students.
   - 
 </details>
 
-### `Lecture 11` - [Trees]()
+### `Lecture 11` - [Trees](https://github.com/cs-MohamedAyman/Discrete-Mathematics/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -134,7 +134,7 @@ Discrete Mathematics lectures for computer science students.
   - 
 </details>
 
-### `Lecture 12` - [Boolean Algebra]()
+### `Lecture 12` - [Boolean Algebra](https://github.com/cs-MohamedAyman/Discrete-Mathematics/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
