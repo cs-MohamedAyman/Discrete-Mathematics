@@ -218,3 +218,4 @@ Discrete Mathematics lectures for computer science students.
 * TheTrevTutor - Mathematical Linguistics
 * Professor Macauley - Discrete Mathematical Structures
 * James Hamblin - Discrete Mathematics
+
