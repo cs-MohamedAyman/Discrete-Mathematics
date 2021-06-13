@@ -189,7 +189,7 @@ Discrete Mathematics lectures for computer science students.
 <br>
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
-## `Textbooks`
+## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks)
 
 * ***Discrete Mathematics and Its Applications***, Kenneth Rosen
 * ***Discrete Mathematics: An Open Introduction***, Oscar Levin
