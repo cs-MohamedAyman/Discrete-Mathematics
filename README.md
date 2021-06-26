@@ -5,7 +5,7 @@ Discrete Mathematics lectures for computer science students.
 <br>
 <br>
 
-## `Part 1` Proofs and Structures `30 hrs`
+## `Part 1` Proofs and Structures
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
@@ -79,7 +79,7 @@ Discrete Mathematics lectures for computer science students.
 <br>
 <br>
 
-## `Part 2` Graphs and Trees `30 hrs`
+## `Part 2` Graphs and Trees
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
@@ -153,7 +153,7 @@ Discrete Mathematics lectures for computer science students.
 <br>
 <br>
 
-## `Assignments` `5 hrs`/`Assignment`
+## `Assignments` `10 hrs`/`Assignment`
 
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 
